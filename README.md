@@ -7,7 +7,7 @@ Espero que gost
 
 # Imagens
 
-https://raw.githubusercontent.com/thiagoodev/menu-netflix/main/demo.
+https://raw.githubusercontent.com/thiagoodev/menu-netflix/main/demo
 
 
 https://raw.githubusercontent.com/thiagoodev/menu-netflix/main/demo2.png
